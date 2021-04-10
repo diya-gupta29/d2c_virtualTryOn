@@ -9,5 +9,5 @@ Flask
 To run Phase2_Body-Measurement:
 python main.py -i1 "path to Image1" -i2 "path to Image2" -i3 "path to Image3" -a "Correction_mode"
 
-To run Phase2_Virtual_try_on
+To run Phase2_Virtual_try_on:
 python try_on.py
